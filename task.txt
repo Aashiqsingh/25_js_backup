@@ -1,1 +1,6 @@
 otp genrator : 4 digit 
+
+
+10 task if else 
+
+
