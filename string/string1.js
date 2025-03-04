@@ -27,10 +27,39 @@
 // var x = str.repeat(3)
 // console.log(x);
 
-var str = "Royal technosoft pvt ltd.";
 
-var x = str.replace("o","z")
-var x = str.replaceAll("o","z")
+// var x = str.replace("o","z")
+// var x = str.replaceAll("o","z")
 
-console.log(x);
+// console.log(x);
 
+
+// var x = str.slice(1)
+// var x = str.slice(1,4)
+// var x = str.slice(-4,-1)
+
+// console.log(x);
+
+// var x = str.split(" ")
+// var x = str.split("o")
+// var x = str.split("")
+// console.log(x);
+
+// console.log(str.toLowerCase());
+// console.log(str.toUpperCase());
+
+var str = "       Royal technosoft pvt ltd.        ";
+
+console.log(str.length);
+
+// var x = str.trim()
+var x = str.trimEnd()
+
+console.log(x.length);
+
+
+
+
+// user : userName : aashiqsingh
+
+// return @aashiqsingh11 
