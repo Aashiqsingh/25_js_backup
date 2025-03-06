@@ -4,3 +4,8 @@ otp genrator : 4 digit
 10 task if else 
 
 
+function :
+area of circle 
+area of rectangle 
+area of sqaure
+odd even 
