@@ -1,0 +1,11 @@
+json --> JavaScript object notation
+
+json -- format 
+
+key : value -- pair 
+
+var student = {
+    roll : 1,
+    name:"rahul",
+    age:19
+}

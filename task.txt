@@ -9,3 +9,16 @@ area of circle
 area of rectangle 
 area of sqaure
 odd even 
+
+
+// task 
+json - 5 
+
+
+function : 5 
+
+1 . name -- "eman" name reverse with function 
+2 . otp genrator : with function 
+
+
+alert("otp "+name)
